@@ -1,0 +1,2 @@
+# Use my fork until PR is merged
+-e git+https://github.com/kyrias/asyncirc.git@fix-say-nick#egg=asyncirc
